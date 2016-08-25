@@ -1,0 +1,11 @@
+blockquote{
+  border: 2px solid white;
+  text-align: center;
+}
+body{
+  background:blue;
+  font-family:cursive;
+  font-size: 12;
+  width:500px;
+  margin:auto;
+}
